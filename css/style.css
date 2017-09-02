@@ -12,3 +12,7 @@ header,
     -o-background-size: cover;
     background-size: cover;
 }
+
+.flex-center {
+    color: #fff;
+}
