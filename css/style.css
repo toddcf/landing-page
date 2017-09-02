@@ -16,3 +16,7 @@ header,
 .flex-center {
     color: #fff;
 }
+
+#map-container {
+	height: 300px
+}
