@@ -8,5 +8,5 @@ Landing page for New York Advertising Agency.
 
 - HTML5
 - CSS3
-- Material Design Bootstrap 4.
+- Material Design Bootstrap 4
 - JavaScript
